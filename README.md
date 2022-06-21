@@ -9,11 +9,11 @@
 ### <div align="center">I'm Nahid🕺, A  MERN Web Developer 👨‍💻</div>  
 
   
-- 👨‍💻 All of my projects are available at [nahid.dev/](https://nahid-portfolio.web.app/)
+- 👨‍💻 All of my projects are available at [nahid.dev](https://nahid-portfolio.web.app/)
 
 - 📫 How to reach me **nahidulislam.nayab54@gmail.com**
 
-- 📄 Know about my experiences [Open Resume]([https://bit.ly/3n27rI5](https://drive.google.com/file/d/1_ZJYzNV1CszrRU2ubk-glPQYGo9EjQlJ/view?usp=sharing))
+- 📄 Know about my experiences [Open Resume](https://drive.google.com/file/d/1_ZJYzNV1CszrRU2ubk-glPQYGo9EjQlJ/view?usp=sharing)
 
 - 🔭 I’m currently working on [Hotels Booking.](https://github.com/mnin-nahid)  
   
