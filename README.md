@@ -1,7 +1,4 @@
 
-![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
- 
-  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=mnin-nahid&&style=flat-square)  
   
